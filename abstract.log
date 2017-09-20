@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.21)  20 SEP 2017 10:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.21)  20 SEP 2017 16:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -537,7 +537,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <figures/s1-3.png, id=9, 728.7225pt x 511.9125pt>
 File: figures/s1-3.png Graphic file (type png)
  <use figures/s1-3.png>
-Package pdftex.def Info: figures/s1-3.png used on input line 89.
+Package pdftex.def Info: figures/s1-3.png used on input line 91.
 (pdftex.def)             Requested size: 455.24408pt x 319.79611pt.
 
 
@@ -553,7 +553,7 @@ File: figures/toolchain-architecture.pdf Graphic file (type pdf)
 
 <use figures/toolchain-architecture.pdf>
 Package pdftex.def Info: figures/toolchain-architecture.pdf used on input line 
-95.
+97.
 (pdftex.def)             Requested size: 455.24408pt x 252.77141pt.
 
 
@@ -572,9 +572,9 @@ Before submitting the final camera ready copy, remember to:
 
 - LAST -
 Extra skip:12.0pt
-Left:36.0pt/2.16492pt
-Right:24.0pt/2.16492pt
-Output:36.0pt
+Left:48.0pt/2.16492pt
+Right:36.0pt/2.16492pt
+Output:48.0pt
 [2] [3 <./figures/s1-3.png> <./figures/toolchain-architecture.pdf>]
 (./abstract.aux) ) 
 Here is how much of TeX's memory you used:
@@ -589,7 +589,7 @@ Here is how much of TeX's memory you used:
 nc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/loc
 al/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on abstract.pdf (3 pages, 520099 bytes).
+Output written on abstract.pdf (3 pages, 520121 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
